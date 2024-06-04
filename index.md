@@ -9,3 +9,7 @@ public class Main {
   }
 }
 ```
+
+- [x] Complete Steps 1-3
+- [x] Complete Step 4
+- [ ] Complete Step 5
